@@ -1,4 +1,5 @@
 # Pizzahut Sales Analysis
+- <img src="https://github.com/VIJAY626404/Pizza-Sales-Analysis-by-SQL/blob/main/pizzahut.jpg" alt="Output Example" width="1000"/>
 
 Welcome to the Pizzahut Sales Analysis project! This project provides a comprehensive analysis of pizza sales data using SQL, offering insights into sales performance, customer preferences, and more.
 
